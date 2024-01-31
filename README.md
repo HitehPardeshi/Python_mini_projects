@@ -2,6 +2,7 @@
 
 
 **1. Data Entry**
+
 ![image](https://github.com/HitehPardeshi/Python_mini_projects/assets/119100439/75e524a6-2e5c-4143-8f52-7fadb2beabef)
 
 
